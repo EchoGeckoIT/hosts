@@ -65,6 +65,7 @@ doh.cleanbrowsing.org
 doh.crypto.sx
 doh.dns.apple.com
 doh.dns.sb
+eu.dns.sb
 doh.dnslify.com
 doh.dnswarden.com
 doh.eastas.pi-dns.com
@@ -130,4 +131,3 @@ tls-dns-u.odvr.dns-oarc.net
 tor.cloudflare-dns.com
 unicast.censurfridns.dk
 www.digitale-gesellschaft.ch
-doh.dns.sb
