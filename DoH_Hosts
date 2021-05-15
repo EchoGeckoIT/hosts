@@ -39,6 +39,7 @@ dns.oszx.com
 dns.pumplex.com
 dns.quad9.net
 dns.rubyfish.cn
+dns.sb
 dns.switch.ch
 dns.twnic.tw
 dns10.quad9.net
@@ -65,7 +66,6 @@ doh.cleanbrowsing.org
 doh.crypto.sx
 doh.dns.apple.com
 doh.dns.sb
-eu.dns.sb
 doh.dnslify.com
 doh.dnswarden.com
 doh.eastas.pi-dns.com
@@ -81,6 +81,7 @@ doh.opendns.com
 doh.pi-dns.com
 doh.powerdns.org
 doh.public
+doh.sb
 doh.seby.io
 doh.seby.io:8443
 doh.securedns.eu
@@ -100,6 +101,7 @@ dot.tiar.app
 dot.westus.pi-dns.com
 dot1.applied-privacy.net
 eropa.dnscepat.id
+eu.doh.sb
 example.doh.blockerdns.com
 family-filter-dns.cleanbrowsing.org
 family.canadianshield.cira.ca
