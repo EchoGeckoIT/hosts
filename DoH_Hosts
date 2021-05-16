@@ -3,11 +3,14 @@ adblock.mydns.network
 adult-filter-dns.cleanbrowsing.org
 anycast.censurfridns.dk
 anycast.uncensoreddns.org
+apple.cloudflare-dns.com
 applied-privacy.net
 asia.dnscepat.id
 basic.bravedns.com
 blahdns.com	
+brave.cloudflare-dns.com
 captnemo.in
+chrome.cloudflare-dns.com
 cloudflare-dns.com
 commons.host
 deic-lgb.anycast.censurfridns.dk
@@ -69,6 +72,7 @@ doh.42l.fr
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.armadillodns.net
+doh.bt.com
 doh.captnemo.in
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
@@ -108,6 +112,7 @@ dot.securedns.eu
 dot.tiar.app
 dot.westus.pi-dns.com
 dot1.applied-privacy.net
+edge.cloudflare-dns.com
 eropa.dnscepat.id
 eu.doh.sb
 example.doh.blockerdns.com
@@ -115,7 +120,9 @@ family-filter-dns.cleanbrowsing.org
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 fi.doh.dns.snopyta.org
+firefox.cloudflare-dns.com
 getdnsapi.net
+google.cloudflare-dns.com
 ibksturm.synology.me
 ibuki.cgnat.net
 jcdns.fun
@@ -124,11 +131,13 @@ jp.tiarap.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
+microsoft.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 ns1.dnsprivacy.at
 ns2.dnsprivacy.at
 odvr.nic.cz
 one.one.one.one
+opera.cloudflare-dns.com
 ordns.he.net
 pi-dns.com
 privacydns.go6lab.si
@@ -139,6 +148,7 @@ rdns.faelix.net
 resolver-eu.lelux.fi
 rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.uncensoreddns.org
+safari.cloudflare-dns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 tls-dns-u.odvr.dns-oarc.net
@@ -148,13 +158,3 @@ uncensored.lux1.dns.nixnet.xyz
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
 zero.bravedns.com
-chrome.cloudflare-dns.com
-google.cloudflare-dns.com
-mozilla.cloudflare-dns.com
-firefox.cloudflare-dns.com
-apple.cloudflare-dns.com
-safari.cloudflare-dns.com
-brave.cloudflare-dns.com
-opera.cloudflare-dns.com
-edge.cloudflare-dns.com
-microsoft.cloudflare-dns.com
